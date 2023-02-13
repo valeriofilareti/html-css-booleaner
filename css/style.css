@@ -52,3 +52,15 @@ main > section > span {
 
 /* /first section--------------------------------------------------- */
 
+/* second section -------------------------------------------------------- */
+
+.first-paragraph {
+  padding: 19px 0;
+
+}
+
+.first-paragraph > span {
+  background-color: yellow;
+}
+
+/* /second section -------------------------------------------------------- */
