@@ -63,4 +63,45 @@ main > section > span {
   background-color: yellow;
 }
 
+ul {
+  padding-bottom: 20px;
+}
+
 /* /second section -------------------------------------------------------- */
+
+
+/* <!-- third section ------------------------------------- --> */
+.table-cell, .table-cell-description {
+  display: inline-block;
+}
+.table-cell {
+  width: 20%;
+}
+
+.table-cell-description {
+  width: 40%;
+}
+.table-head {
+  height:20px;
+  background-color: rgb(0, 119, 255);
+  color: aliceblue;
+
+}
+.table-raw {
+  width: 100%;
+
+}
+.table-raw.blue {
+  background-color: rgb(0, 217, 255);
+}
+.table-raw.white {
+  background-color:rgb(208, 255, 255) ;
+}
+.second-paragraph {
+  padding: 20px 0;
+}
+
+.second-paragraph > span {
+  background-color: yellow;
+}
+/* <!-- /third section ------------------------------------- --> */
